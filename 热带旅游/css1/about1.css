@@ -1,0 +1,249 @@
+/*头部部分*/
+.header{
+	width: 100%;
+/*    margin-top: -70px;*/
+}
+.header .container{
+	background-color:rgb(100,149,237);
+	width: 100%;
+	height:70px;
+}
+.head{
+	float: left;
+	margin-left: 200px;
+}
+.head h3{
+	font-size: 40px;
+	color: white
+}
+.nav{
+	float: right;
+	margin-right: 150px;
+	margin-top: 10px;
+}
+.nav li a {
+  font-size: 18px;
+  color: white;
+  background-color: rgb(100,149,237);
+}
+.nav li a:hover{
+	color: rgb(0,0,0);
+}
+
+/*About the Moon Hotel部分*/
+.content .container h3{
+	margin-top: 100px;
+	text-align: center;
+	font-size: 40px;
+	color: rgb(0,255,255);
+}
+.content .container .row-text{
+	margin-top: 50px;
+}
+.row-text h4{
+   color: black;
+   font-size: 25px;
+}
+.row-text p{
+	font-size: 15px;
+}
+.row-img1{
+	width: 810px;
+}
+.row-img1 img{
+	width: 400px;
+	height: 300px;
+	border: 10px solid #DCDCDC;
+	border-radius: 5px;
+}
+.row-img2{
+	width: 810px;
+}
+.row-img2 img{
+	width: 400px;
+	height: 300px;
+	margin-top: 30px;
+	border-radius: 5px;
+	border: 10px solid #DCDCDC;
+}
+
+/*<!-- Hotel Statistics部分 -->*/
+.Statistics{
+	margin-top: 100px;
+}
+.Statistics-img img{
+	width: 100%;
+	height: 300px;
+	position: absolute;
+}
+.Statistics .row{
+/*	position: absolute;*/
+}
+.Statistics .container h3{
+	color: rgb(255,255,255);
+	margin-top: 120px;
+}
+.Statistics-text h5{
+	color: rgb(255,255,255);
+	font-size: 20px;
+	text-align: center;
+}
+.numscroller{
+	color: rgb(255,255,255);
+	font-size: 30px;
+	text-align: center;
+} 
+
+
+/*our team 部分*/
+.team{
+	margin-top: 100px;
+}
+.team .container h3{
+  text-align: center;
+  font-size: 40px;
+  color: rgb(72,209,204);
+}
+.team .container .row{
+	margin-top: 50px;
+}
+.team .team-text1{
+	width: 250px;
+	height: 250px;
+    background-color: rgb(	220,220,220);
+    position: absolute;
+}
+.team-text1 h4{
+	text-align: center;
+	padding: 20px;
+	font-size: 30px;
+}
+.team-text1 p{
+	text-align: center;
+}
+
+.team .team-text2{
+	width: 250px;
+	height: 250px;
+    background-color: rgb(	220,220,220);
+    position: absolute;
+}
+.team-text2 h4{
+	text-align: center;
+	padding: 20px;
+	font-size: 30px;
+}
+.team-text2 p{
+	text-align: center;
+}
+
+.team .team-text3{
+	width: 250px;
+	height: 250px;
+    background-color: rgb(	220,220,220);
+    position: absolute;
+}
+.team-text3 h4{
+	text-align: center;
+	padding: 20px;
+	font-size: 30px;
+}
+.team-text3 p{
+	text-align: center;
+}
+
+.team .team-text4{
+	width: 250px;
+	height: 250px;
+    background-color: rgb(	220,220,220);
+    position: absolute;
+}
+.team-text4 h4{
+	text-align: center;
+	padding: 20px;
+	font-size: 30px;
+}
+.team-text4 p{
+	text-align: center;
+}
+.team-font i{
+	width: 50px;
+	height: 50px;
+	background-color: rgb(	128,128,128);
+	padding: 15px;
+	font-size: 20px;
+	margin-left: 20px;
+}
+.team-img1{
+	width: 250px;
+	height: 250px;
+	top: 0px;
+}
+.team-img1 .img1{
+	width: 250px;
+	height: 250px;
+	top: 0px;
+	position: absolute;
+}
+.team-img2{
+	width: 250px;
+	height: 250px;
+	top: 0px;
+}
+.team-img2 .img2{
+	width: 250px;
+	height: 250px;
+	top: 0px;
+	position: absolute;
+}
+.team-img3{
+	width: 250px;
+	height: 250px;
+	top: 0px;
+}
+.team-img3 .img3{
+	width: 250px;
+	height: 250px;
+	top: 0px;
+	position: absolute;
+}
+.team-img4{
+	width: 250px;
+	height: 250px;
+	top: 0px;
+}
+.team-img4 .img4{
+	width: 250px;
+	height: 250px;
+	top: 0px;
+	position: absolute;
+}
+/*.team-img:hover{
+	-webkit-animation:myfirst 1s;
+}
+@-webkit-keyframes myfirst{
+	form{height: 250px;top: 0px;}
+	to{height: 0px;top: 250px;}
+}*/
+
+
+/*foot部分++++++++++++++++++++++*/
+.foot{
+	width: 100%;
+	height: 300px;
+	background-color: rgb(105,105,105);
+	margin-top: 100px;
+}
+.foot h3{
+	color: rgb(255,255,255);
+	font-size: 30px;
+	margin-top: 100px;
+}
+.foot ul li{
+	list-style-type: none;
+	color: rgb(	169,169,169);
+	padding-top: 10px;
+}
+.foot ul li a{
+	color: rgb(	169,169,169);
+}
